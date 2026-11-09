@@ -52,3 +52,4 @@ bilibili-api-python==17.3.0
 lark==1.2.2
 lazy_loader==0.4
 pyarrow==20.0.0
+rank_bm25==0.2.2

@@ -1,2 +1,6 @@
 # macOS
 .DS_Store
+
+# 环境变量与密钥
+.env
+.env.*
